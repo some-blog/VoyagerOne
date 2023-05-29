@@ -2,6 +2,9 @@
 
 source "https://rubygems.org"
 
+
+# This is the default theme for new Jekyll sites. You may change this to anything you like.
+gem "minima", "~> 2.5.1"
 gem "jekyll-theme-chirpy", "~> 6.0", ">= 6.0.1"
 
 group :test do
