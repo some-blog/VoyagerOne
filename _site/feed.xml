@@ -1,0 +1,125 @@
+
+
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <id>http://localhost:4000/</id>
+  <title>Some Title garbage</title>
+  <subtitle>A minimal, responsive and feature-rich Jekyll theme for technical writing.</subtitle>
+  <updated>2023-05-26T12:51:37-04:00</updated>
+  <author>
+    <name>name_is_populated</name>
+    <uri>http://localhost:4000/</uri>
+  </author>
+  <link rel="self" type="application/atom+xml" href="http://localhost:4000/feed.xml"/>
+  <link rel="alternate" type="text/html" hreflang="en"
+    href="http://localhost:4000/"/>
+  <generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator>
+  <rights> © 2023 name_is_populated </rights>
+  <icon>/assets/img/favicons/favicon.ico</icon>
+  <logo>/assets/img/favicons/favicon-96x96.png</logo>
+
+
+  
+  <entry>
+    <title>this is the title</title>
+    <link href="http://localhost:4000/posts/first-test/" rel="alternate" type="text/html" title="this is the title" />
+    <published>2023-05-26T05:11:22-04:00</published>
+  
+    <updated>2023-05-26T05:11:22-04:00</updated>
+  
+    <id>http://localhost:4000/posts/first-test/</id>
+    <content src="http://localhost:4000/posts/first-test/" />
+    <author>
+      <name>name_is_populated</name>
+    </author>
+
+  
+    
+    <category term="RandomThing" />
+    
+    <category term="Sub Thing" />
+    
+  
+
+  
+    <summary>
+      
+
+
+
+
+
+      asdfklas
+df
+sad
+adsfasd
+f
+asd
+asdf
+adsf
+dfsa
+
+adfs
+a
+asd
+fad
+sad
+sdaf
+a
+sdf
+sadf
+
+HELLO WORLD
+
+  asdf
+  bbbb
+    
+      abcdddd
+    
+  
+
+
+    </summary>
+  
+
+  </entry>
+
+  
+  <entry>
+    <title>Who Am I?</title>
+    <link href="http://localhost:4000/posts/about/" rel="alternate" type="text/html" title="Who Am I?" />
+    <published>2023-05-26T05:00:00-04:00</published>
+  
+    <updated>2023-05-26T05:00:00-04:00</updated>
+  
+    <id>http://localhost:4000/posts/about/</id>
+    <content src="http://localhost:4000/posts/about/" />
+    <author>
+      <name>name_is_populated</name>
+    </author>
+
+  
+    
+    <category term="Personal Garbage" />
+    
+  
+
+  
+    <summary>
+      
+
+
+
+
+
+      Introduction
+Intruductions are strange, a hello or handshake or maybe a nice to meet you and a wave and you’d leave that moment claiming “oh yes I know that person.” Though you don’t really know them, you know OF them. You know the word under which they respond, but you don’t really know them.
+
+Take this blog, I could tell you “my name is Anna Keichline” and (if you didn’t think to wikipedia th...
+    </summary>
+  
+
+  </entry>
+
+</feed>
+
+
